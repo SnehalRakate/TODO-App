@@ -47,7 +47,7 @@ const ToDoList=()=>{
 
     return(
         <div style={{padding:"20px"}}>
-            <h2>TODO LIST</h2>
+            <h2>TODO LIST APP</h2>
           <input type="text" 
           value={task}
           placeholder="Enter Task"
